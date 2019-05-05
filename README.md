@@ -9,4 +9,4 @@
 3)	Notepad++ v7.6.679b
 4)	Unity v5.4.5p5
 ## Ссылки на скачивание
-Скачать последнюю версию программы можно на [странице релизова](https://github.com/vladd12/Program_VL_15/releases)
+Скачать последнюю версию программы можно на [странице релизов](https://github.com/vladd12/Program_VL_15/releases).
