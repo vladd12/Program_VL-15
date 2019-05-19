@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 
@@ -19,7 +19,7 @@ public class ClickObject : MonoBehaviour {
 		else UIObject.SetActive(false);
 	}
 	
-	void OnMouseDown() {
+	void OnMouseDownAsButton() {
 		if (click == false) {
 			Debug.Log("Click = true");
 			click = true;
